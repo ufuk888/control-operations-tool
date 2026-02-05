@@ -48,7 +48,6 @@ No İşlem Açıklama ve Kullanım Senaryosu
 4) Giriş: Servis adına nginx yazın ve Enter'a basın.
 
 5) Sonuç: - ✔ nginx yeniden başlatıldı. (Başarılı)
-
-         ✘ Yeniden başlatma hatası! (Hatalı)
+            ✘ Yeniden başlatma hatası! (Hatalı)
 
 

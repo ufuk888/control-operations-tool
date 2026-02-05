@@ -16,7 +16,8 @@ Linux Servis Yönetim Paneli, günlük sunucu operasyonlarını hızlandırmak v
 
 ---
 
-📋 Menü ve Fonksiyonlar Rehberi
+📋 Menü ve Fonksiyonlar Rehberi  
+
 No,İşlem,Açıklama ve Kullanım Senaryosu
 1,Start,Durmuş bir servisi çalıştırır.
 2,Stop,Çalışan bir servisi anında sonlandırır.
@@ -27,6 +28,7 @@ No,İşlem,Açıklama ve Kullanım Senaryosu
 7,Edit,Servis dosyasını sistem editörü ile düzenler.
 8,Listele,Tüm aktif servisleri listeler.
 0,Çıkış,Uygulamadan güvenli bir şekilde ayrılmanızı sağlar.
+
 💡 Örnek Senaryo: Nginx Yeniden Başlatma
 1) Başlat: sudo ./servis_yonetim.sh
 

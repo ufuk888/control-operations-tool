@@ -49,6 +49,4 @@ No İşlem Açıklama ve Kullanım Senaryosu
 
 5) Sonuç: - ✔ nginx yeniden başlatıldı. (Başarılı)
 
-            ✘ Yeniden başlatma hatası! (Hatalı)
-
 

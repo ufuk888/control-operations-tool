@@ -16,7 +16,7 @@ Linux Servis Yönetim Paneli, günlük sunucu operasyonlarını hızlandırmak v
 
 ---
 
-📋 Menü ve Fonksiyonlar Rehberi  
+## 📋 Menü ve Fonksiyonlar Rehberi  
 
 No İşlem Açıklama ve Kullanım Senaryosu
 
@@ -38,7 +38,7 @@ No İşlem Açıklama ve Kullanım Senaryosu
 
 0 Çıkış,Uygulamadan güvenli bir şekilde ayrılmanızı sağlar.
 
-💡 Örnek Senaryo: Nginx Yeniden Başlatma
+## 💡 Örnek Senaryo: Nginx Yeniden Başlatma
 1) Başlat: sudo ./servis_yonetim.sh
 
 2) Kontrol: Servis adından emin değilseniz 8 tuşuna basın.
